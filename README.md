@@ -140,3 +140,32 @@ Skipped: Stripe Press (the home page rendered only a dark shell in the browser u
 | [simon-willison.md](references/simon-willison.md) | https://simonwillison.net | editorial, developer-tools |
 | [emil-kowalski.md](references/emil-kowalski.md) | https://emilkowal.ski | editorial, portfolio |
 
+## Mobile in-app consumer flows (2026-11-06)
+
+Read for three consumer jobs: a Brazilian charge with Pix, a party link guests can answer without installing, and a list of upcoming subscription charges. Each file is one product host. The source is the help article, the public web screen, or the store listing that was actually read. Marketing homepages were not captured.
+
+Skipped as existing hosts: Cash App, Copilot Money, and Duolingo. Mercado Pago's help URL kept the article title and rendered no body. Mobbin's explore page is public, the named products were not on the first screen, and a search URL 404'd. No account was created there. Refero and Page Flows were not opened.
+
+No product in this batch offered a tone picker before a WhatsApp handoff. The shipped pattern is a link or a fixed reminder schedule, and the words are written in the chat app. Playful copy inside a money app was not on any screen that loaded. Light and dark were described as settings for a few money apps, and both themes were not rendered side by side, so state color was not checked. A short form that ends in a share sheet showed up often enough to notice. It was not added as an archetype.
+
+`events` is the domain for invitations, RSVP, guest lists, shared tasks, and draws. It was added to the skilldeck taxonomy with this batch. The seed still has no events files.
+
+| File | Source | Domains |
+| --- | --- | --- |
+| [nubank.md](references/nubank.md) | https://blog.nubank.com.br/pix-copia-e-cola/ | payments, finance |
+| [picpay.md](references/picpay.md) | https://meajuda.picpay.com/hc/pt-br/articles/43844710037907-Como-eu-gero-um-link-de-pagamento-pelo-PicPay | payments, finance |
+| [infinitepay.md](references/infinitepay.md) | https://ajuda.infinitepay.io/pt-BR/articles/8442931-como-vender-com-a-gestao-de-cobrancas | payments, finance |
+| [cora.md](references/cora.md) | https://www.cora.com.br/ajuda/artigo/pix-cobranca-na-cora/ | payments, finance |
+| [asaas.md](references/asaas.md) | https://central.ajuda.asaas.com/hc/pt-br/articles/52781250944155-Como-gerenciar-e-configurar-as-notifica%C3%A7%C3%B5es-autom%C3%A1ticas-de-cobran%C3%A7a-de-um-cliente | payments, finance |
+| [partiful.md](references/partiful.md) | https://help.partiful.com/en-us/articles/15525299-creating-your-first-partiful-event | events, social |
+| [luma.md](references/luma.md) | https://luma.com/central-park-meetup | events |
+| [sympla.md](references/sympla.md) | https://ajuda.produtor.sympla.com.br/hc/pt-br/articles/15421649681677-Saiba-como-utilizar-e-analisar-os-dados-no-seu-Painel-Da-Sympla | events, marketplace |
+| [splitwise.md](references/splitwise.md) | https://kb.splitwise.com/balances-and-expenses/what-are-different-ways-i-can-split-an-expense | finance, productivity |
+| [tricount.md](references/tricount.md) | https://help.tricount.com/pt-br/articles/how-can-i-manage-my-tricounts-and-expenses | finance, productivity |
+| [elfster.md](references/elfster.md) | https://help.elfster.com/en/articles/11487573-how-do-i-start-a-new-elfster-gift-exchange | events, social |
+| [spond.md](references/spond.md) | https://help.spond.com/app/en/articles/682684-public-events-beta | events, social |
+| [rocket-money.md](references/rocket-money.md) | https://help.rocketmoney.com/en/articles/2185531-managing-your-bills-and-subscriptions | finance, productivity |
+| [bobby.md](references/bobby.md) | https://apps.apple.com/us/app/bobby-track-subscriptions/id1059152023 | finance, productivity |
+| [revolut.md](references/revolut.md) | https://help.revolut.com/help/card-payments-withdrawals/subscriptions/ | finance, payments |
+| [monzo.md](references/monzo.md) | https://monzo.com/en-es/help/using-monzo/help-scheduled-payments | finance, payments |
+
