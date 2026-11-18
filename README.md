@@ -169,3 +169,44 @@ No product in this batch offered a tone picker before a WhatsApp handoff. The sh
 | [revolut.md](references/revolut.md) | https://help.revolut.com/help/card-payments-withdrawals/subscriptions/ | finance, payments |
 | [monzo.md](references/monzo.md) | https://monzo.com/en-es/help/using-monzo/help-scheduled-payments | finance, payments |
 
+## Explainer motion (2026-11-18)
+
+Read for purposeful diagram motion: one change, the rest held, a drawing named as a model. None of these hosts were already in the public seed or this folder. The Everyday Science palette, character, and scenes were not part of the read.
+
+Watched: the light article and the engine article as one project, the Markov page, the bending-light intro as a still, and two frames of the wind map. The Distill article, the photosynthesis classroom page, the Nicky Case index, The Pudding index, and the Exploratorium directory were read as text. The stroke in Listen to America was the makers' account, not a watched line. The Snow Fox app and the Milli app were not run; those files are the store listing and the makers' notes.
+
+Skipped after the search: Oat the Goat (a WebGL character film), Creddy (most of the page animates), Obys (already in the public seed, and cinematic), Devouring Details (the chapters sit behind a paywall). Brilliant, Khan Academy, Duolingo, Rive, GSAP, Jitter, and Excalidraw were already stored.
+
+| File | Source | Domains |
+| --- | --- | --- |
+| [ciechanowski.md](references/ciechanowski.md) | https://ciechanow.ski/lights-and-shadows/ | education, editorial |
+| [redblobgames.md](references/redblobgames.md) | https://www.redblobgames.com/making-of/little-things/ | education, editorial |
+| [setosa.md](references/setosa.md) | https://setosa.io/ev/markov-chains/ | education |
+| [phet.md](references/phet.md) | https://phet.colorado.edu/sims/html/bending-light/latest/bending-light_en.html | education |
+| [earth-nullschool.md](references/earth-nullschool.md) | https://earth.nullschool.net/ | education |
+| [distill.md](references/distill.md) | https://distill.pub/2016/augmented-rnns/ | education, editorial, ai-ml |
+| [biointeractive.md](references/biointeractive.md) | https://www.biointeractive.org/classroom-resources/photosynthesis | education |
+| [ncase.md](references/ncase.md) | https://ncase.me/ | education, editorial |
+| [pudding.md](references/pudding.md) | https://pudding.cool/ | editorial |
+| [exploratorium.md](references/exploratorium.md) | https://www.exploratorium.edu/explore | education |
+| [listen-to-america.md](references/listen-to-america.md) | https://www.huffpost.com/interactives/listen-to-america | editorial |
+| [snow-fox.md](references/snow-fox.md) | https://apps.apple.com/us/app/the-snow-fox/id1057962873 | education, editorial |
+| [milli.md](references/milli.md) | https://thefwa.com/article/insights-milli-a-small-snail-in-a-big-world | education, editorial |
+
+Ncase, Pudding, and the Exploratorium page had no diagram motion, so those files omit the motion tags. Milli's source is the makers' note because the app was not opened.
+
+## Narrated math motion (2026-11-18)
+
+Read for a calm puzzle film: a difference written between terms, a prediction that holds, a check that stays, and two rules side by side. Awwwards (Culture and Education), SiteInspire (Education, Science, Use of Animation), and FWA case notes mostly listed school marketing, quest games, 3D worlds, and studio scroll. Those projects were not captured. The proposed live projects were not on those gallery lists, so the files below are the projects themselves.
+
+The number-line file is the published description and learning goals. Its canvas did not paint here. The sequences lesson and the grid explainer were read as pages. The lineup file is one essay's text, not a watched timeline.
+
+Skipped after the read: Equality Explorer (a sibling sim whose description says to collect stars), Klim, Grilli Type, and Future Fonts (type specimens and a shop, no lesson), Seeing Theory (a chapter list only), Setosa's regression page and Gapminder Tools (no readable body), and a Distill essay whose subject is faster convergence.
+
+| File | Source | Domains |
+| --- | --- | --- |
+| [phet-number-line-operations.md](references/phet-number-line-operations.md) | https://phet.colorado.edu/en/simulations/number-line-operations | education |
+| [mathigon-sequences.md](references/mathigon-sequences.md) | https://mathigon.org/course/sequences/introduction | education |
+| [red-blob-games.md](references/red-blob-games.md) | https://www.redblobgames.com/pathfinding/a-star/introduction.html | education, developer-tools |
+| [pudding-lineup.md](references/pudding-lineup.md) | https://pudding.cool/2024/09/lineup/ | editorial |
+
